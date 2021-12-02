@@ -1,0 +1,9 @@
+###
+POST http://localhost:5000/robotsSimulations HTTP/1.1
+content-type: application/json
+
+{
+}
+
+###
+http://localhost:5000/robotsSimulations/bd92ff71-555a-457a-8867-e9b1657c3b2b
